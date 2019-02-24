@@ -1,0 +1,37 @@
+Classes in global scope: Solver
+
+In class Solver scope
+Methods in current scope: findTargetOrMove inBounds initMaze1 initMaze2 initMazeCool isBLUE isDark mazeCol mazeRow move run
+In method findTargetOrMove scope
+Method Signature: (BYTE,BYTE,BYTE,BYTE) returns class_null
+Vars in current scope: THIS:class_Solver nextX:BYTE nextY:BYTE targetX:BYTE targetY:BYTE
+In method inBounds scope
+Method Signature: (BYTE,BYTE) returns BOOL
+Vars in current scope: THIS:class_Solver x:BYTE y:BYTE
+In method initMaze1 scope
+Method Signature: () returns class_null
+Vars in current scope: THIS:class_Solver
+In method initMaze2 scope
+Method Signature: () returns class_null
+Vars in current scope: THIS:class_Solver
+In method initMazeCool scope
+Method Signature: () returns class_null
+Vars in current scope: THIS:class_Solver
+In method isBLUE scope
+Method Signature: (BYTE,BYTE) returns BOOL
+Vars in current scope: THIS:class_Solver x:BYTE y:BYTE
+In method isDark scope
+Method Signature: (BYTE,BYTE) returns BOOL
+Vars in current scope: THIS:class_Solver x:BYTE y:BYTE
+In method mazeCol scope
+Method Signature: (BYTE,BYTE,BYTE) returns class_null
+Vars in current scope: THIS:class_Solver col:BYTE endrow:BYTE startrow:BYTE
+In method mazeRow scope
+Method Signature: (BYTE,BYTE,BYTE) returns class_null
+Vars in current scope: THIS:class_Solver endcol:BYTE row:BYTE startcol:BYTE
+In method move scope
+Method Signature: (BYTE,BYTE,BYTE,BYTE) returns class_null
+Vars in current scope: THIS:class_Solver currentX:BYTE currentY:BYTE targetX:BYTE targetY:BYTE
+In method run scope
+Method Signature: () returns class_null
+Vars in current scope: THIS:class_Solver

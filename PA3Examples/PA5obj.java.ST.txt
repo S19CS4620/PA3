@@ -1,0 +1,18 @@
+Classes in global scope: C Ind
+
+In class C scope
+Vars in current scope: oy:class_Ind
+Methods in current scope: setP
+In method setP scope
+Method Signature: (BYTE,BYTE,COLOR) returns class_null
+Vars in current scope: THIS:class_C c:COLOR ox:class_Ind x:BYTE y:BYTE
+
+In class Ind scope
+Vars in current scope: _i:BYTE
+Methods in current scope: get put
+In method get scope
+Method Signature: () returns BYTE
+Vars in current scope: THIS:class_Ind
+In method put scope
+Method Signature: (BYTE) returns class_null
+Vars in current scope: THIS:class_Ind i:BYTE

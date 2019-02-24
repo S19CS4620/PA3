@@ -1,0 +1,14 @@
+Classes in global scope: Dot
+
+In class Dot scope
+Vars in current scope: curr_x:BYTE curr_y:BYTE dotcolor:COLOR
+Methods in current scope: inBounds movedot run
+In method inBounds scope
+Method Signature: (BYTE,BYTE) returns BOOL
+Vars in current scope: THIS:class_Dot x:BYTE y:BYTE
+In method movedot scope
+Method Signature: (BYTE,BYTE) returns class_null
+Vars in current scope: THIS:class_Dot x:BYTE y:BYTE
+In method run scope
+Method Signature: () returns class_null
+Vars in current scope: THIS:class_Dot localvar:TONE

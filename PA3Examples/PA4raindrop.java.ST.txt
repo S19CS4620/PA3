@@ -1,0 +1,10 @@
+Classes in global scope: Cloud
+
+In class Cloud scope
+Methods in current scope: inBounds rain
+In method inBounds scope
+Method Signature: (BYTE,BYTE) returns BOOL
+Vars in current scope: THIS:class_Cloud x:BYTE y:BYTE
+In method rain scope
+Method Signature: (BYTE,BYTE) returns class_null
+Vars in current scope: THIS:class_Cloud x:BYTE y:BYTE
