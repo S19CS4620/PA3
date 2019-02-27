@@ -1,7 +1,7 @@
 # PA3
 PA3
 
-Sample printSymTable method pseudo code
+Pseudo code for printing symbol table
 
 public void printSymTable(Scope sc) {
 		boolean flag = false;
